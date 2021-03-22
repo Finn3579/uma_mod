@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "uma_mod",
+    "name": "Uma_mod",
+    "description": "This mod makes your life with horse better",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Finn"],
+    "credits": "Antei",
+    "logoFile": "assets/uma_mod/logo.php",
+    "screenshots": [],
+    "dependencies": ["mod_MinecraftForge"]
+  }
+]
